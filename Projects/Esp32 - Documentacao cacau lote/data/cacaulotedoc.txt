@@ -1,0 +1,11 @@
+Documentação CacauLote
+
+O CacauLote é um projeto que visa a implementação da Indicação Geográfica de Procedência por meio da tecnologia Blockchain. O blockchain é uma tecnologia de registro distribuído que visa a criação de um banco de dados compartilhado e imutável. Ele consiste em uma cadeia de blocos interligados, cada um contendo um registro de informações validadas e protegidas por criptografia. Essa descentralização e imutabilidade tornam o blockchain uma ferramenta confiável para uma variedade de aplicações, desde transações financeiras até contratos inteligentes e rastreamento de cadeia de suprimentos. Neste blockchain destinado à Indicação de Procedência do cacau da Ilha do Combú, o Totem gênesis é a representação física das informações da plantação e do produtor do cacau da ilha. À medida que as etapas da produção do cacau acontecem, seja colheita, fermentação, secagem, venda ou tranpote, um novo bloco será adicionado à cadeia. Cada bloco conterá dados e a data desta etapa. Isso garantirá uma trilha de auditoria transparente e confiável para toda a jornada do cacau, desde a plantação até a eventual produção de chocolate.
+
+Informações da plantação e produtor
+
+Nome do proprietário: Arthur de Souza Nascimento.
+CPF do proprietário: 253.423.701-00.
+Latitude da plantação: -1.502938425552705.
+Longitude da plantação: -48.446941543718744.
+Infos: 9 pés de cacau nativos e 3 pés de cacau plantados.
